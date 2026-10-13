@@ -1,27 +1,205 @@
 {
   "version": 1,
   "updated": "2026-10-13",
-  "source": "https://ijru.sport/world-records",
+  "source": "IJRU world records (https://ijru.sport/world-records) + AJRU Asian records (https://www.ajru.sport/asian-records)",
   "records": [
     {
-      "event": "SRSS",
+      "event": "DDSR",
       "division": "OPEN FEMALE",
       "type": "WR",
-      "result": "111 (TIE)",
-      "holder": "Xihui Feng / Tingting Du",
-      "country": "CHN",
-      "location": "Kawasaki (JPN) / Guangzhou City (CHN)",
-      "date": "2025"
+      "result": "429 (TIE)",
+      "holder": "Hiu Lam Chan Kei Ching Chan Ching Ho Wan Chui San Yan   ·   Hongxiang Chen Yuling Chen Bingqian Huang Yaqi Liao",
+      "country": "HKG",
+      "location": "Hong Kong, CHN (HKG)",
+      "date": "2025",
+      "meet": "Hong Kong Rope Skipping Invitational Championship"
     },
     {
-      "event": "SRSS",
+      "event": "DDSR",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "429 (TIE)",
+      "holder": "Hiu Lam Chan Kei Ching Chan Ching Ho Wan Chui San Yan   ·   Hongxiang Chen Yuling Chen Bingqian Huang Yaqi Liao",
+      "country": "HKG",
+      "location": "Hong Kong, CHN (HKG)",
+      "date": "2025",
+      "meet": "Hong Kong Rope Skipping Invitational Championship"
+    },
+    {
+      "event": "DDSR",
       "division": "OPEN MALE",
       "type": "WR",
-      "result": "119",
-      "holder": "Xiaolin Cen",
+      "result": "485",
+      "holder": "Cheuk Him Au Cheuk Kiu Au Cheuk Kei Chu Pak Kin Pang",
+      "country": "HKG",
+      "location": "Incheon (KOR)",
+      "date": "2026",
+      "meet": "Korea Open"
+    },
+    {
+      "event": "DDSR",
+      "division": "OPEN MALE",
+      "type": "AS",
+      "result": "485",
+      "holder": "Cheuk Him Au Cheuk Kiu Au Cheuk Kei Chu Pak Kin Pang",
+      "country": "HKG",
+      "location": "Incheon (KOR)",
+      "date": "2026",
+      "meet": "Korea Open"
+    },
+    {
+      "event": "DDSR",
+      "division": "OPEN MIXED",
+      "type": "WR",
+      "result": "461",
+      "holder": "Kobe Caryn Matthias Hiele Jens Ockerman Joyce De Temmerman",
+      "country": "BEL",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "DDSR",
+      "division": "OPEN MIXED",
+      "type": "AS",
+      "result": "447",
+      "holder": "Wing Lok Chow Chu Ting Ho Chi Ki Law Kai Ming Wong",
+      "country": "HKG",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "DDSS",
+      "division": "OPEN FEMALE",
+      "type": "WR",
+      "result": "228",
+      "holder": "Lou Aubree Sharleen Tran Gwenaëlle Maraux",
+      "country": "FRA",
+      "location": "A Nantes (FRA)",
+      "date": "2026",
+      "meet": "French National Championships"
+    },
+    {
+      "event": "DDSS",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "224",
+      "holder": "Yua Kawakami / Arisu Sakurai / Aoi Hiramatsu",
+      "country": "JPN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "DDSS",
+      "division": "OPEN MALE",
+      "type": "WR",
+      "result": "244",
+      "holder": "Yun San Leung Cheuk Kei Chu Pak Kin Pang",
+      "country": "HKG",
+      "location": "Colorado Springs (USA)",
+      "date": "2023",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "DDSS",
+      "division": "OPEN MALE",
+      "type": "AS",
+      "result": "244",
+      "holder": "Yun San Leung Cheuk Kei Chu Pak Kin Pang",
+      "country": "HKG",
+      "location": "Colorado Springs (USA)",
+      "date": "2023",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "DDSS",
+      "division": "OPEN MIXED",
+      "type": "WR",
+      "result": "243 (TIE)",
+      "holder": "Chun Ho Law Sai Kit Lau Hiu Tung Liu   ·   Liang Jiayang Liao Yaqi Ru Siqi",
+      "country": "HKG",
+      "location": "Hong Kong, CHN (HKG)",
+      "date": "2025",
+      "meet": "Hong Kong Rope Skipping Invitational Championship"
+    },
+    {
+      "event": "DDSS",
+      "division": "OPEN MIXED",
+      "type": "AS",
+      "result": "243 (TIE)",
+      "holder": "Chun Ho Law Sai Kit Lau Hiu Tung Liu   ·   Liang Jiayang Liao Yaqi Ru Siqi",
+      "country": "HKG",
+      "location": "Hong Kong, CHN (HKG)",
+      "date": "2025",
+      "meet": "Hong Kong Rope Skipping Invitational Championship"
+    },
+    {
+      "event": "SRDR",
+      "division": "OPEN FEMALE",
+      "type": "WR",
+      "result": "195",
+      "holder": "Yu Ki Li Tsz Ching Gustave Yeung",
+      "country": "HKG",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRDR",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "195",
+      "holder": "Yu Ki Li Tsz Ching Gustave Yeung",
+      "country": "HKG",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRDR",
+      "division": "OPEN MALE",
+      "type": "WR",
+      "result": "210",
+      "holder": "Seojun Kim Changhurk Yang",
+      "country": "KOR",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRDR",
+      "division": "OPEN MALE",
+      "type": "AS",
+      "result": "210",
+      "holder": "Seojun Kim Changhurk Yang",
+      "country": "KOR",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRDR",
+      "division": "OPEN MIXED",
+      "type": "WR",
+      "result": "212",
+      "holder": "Tingting Du Zhongfei Duan",
       "country": "CHN",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRDR",
+      "division": "OPEN MIXED",
+      "type": "AS",
+      "result": "212",
+      "holder": "Tingting Du Zhongfei Duan",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
       "event": "SRSE",
@@ -31,7 +209,19 @@
       "holder": "Tingting Du",
       "country": "CHN",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRSE",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "552",
+      "holder": "Tingting Du",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
       "event": "SRSE",
@@ -41,67 +231,129 @@
       "holder": "Xiaolin Cen",
       "country": "CHN",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
-      "event": "SRDR",
-      "division": "OPEN FEMALE",
-      "type": "WR",
-      "result": "195",
-      "holder": "Yu Ki Li / Tsz Ching / Gustave Yeung",
-      "country": "HKG",
-      "location": "Kawasaki (JPN)",
-      "date": "2025"
-    },
-    {
-      "event": "SRDR",
+      "event": "SRSE",
       "division": "OPEN MALE",
-      "type": "WR",
-      "result": "210",
-      "holder": "Seojun Kim / Changhurk Yang",
-      "country": "KOR",
-      "location": "Kawasaki (JPN)",
-      "date": "2025"
-    },
-    {
-      "event": "SRDR",
-      "division": "OPEN MIXED",
-      "type": "WR",
-      "result": "212",
-      "holder": "Tingting Du / Zhongfei Duan",
+      "type": "AS",
+      "result": "584",
+      "holder": "Xiaolin Cen",
       "country": "CHN",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
       "event": "SRSR",
       "division": "OPEN FEMALE",
       "type": "WR",
       "result": "400",
-      "holder": "Yu Ki Li / Tsz Ching / Gustave Yeung / Nga Hei Siu / Yee Kiu Siu",
+      "holder": "Yu Ki Li Tsz Ching Gustave Yeung Nga Hei Siu Yee Kiu Siu",
       "country": "HKG",
       "location": "Hong Kong, CHN (HKG)",
-      "date": "2026"
+      "date": "2026",
+      "meet": "Hong Kong Elite Championship"
+    },
+    {
+      "event": "SRSR",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "400",
+      "holder": "Yu Ki Li Tsz Ching Gustave Yeung Nga Hei Siu Yee Kiu Siu",
+      "country": "HKG",
+      "location": "Hong Kong, CHN (HKG)",
+      "date": "2026",
+      "meet": "Hong Kong Elite Championship"
     },
     {
       "event": "SRSR",
       "division": "OPEN MALE",
       "type": "WR",
       "result": "430",
-      "holder": "Xiaolin Cen / Kaiyu Xie / Chongyang Zhang / Guiyuan Zhang",
+      "holder": "Xiaolin Cen Kaiyu Xie Chongyang Zhang Guiyuan Zhang",
       "country": "CHN",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRSR",
+      "division": "OPEN MALE",
+      "type": "AS",
+      "result": "430",
+      "holder": "Xiaolin Cen Kaiyu Xie Chongyang Zhang Guiyuan Zhang",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
       "event": "SRSR",
       "division": "OPEN MIXED",
       "type": "WR",
       "result": "427",
-      "holder": "Jaewon An / Insup Kim / Yooseong Choi / Hyeonji Lee",
+      "holder": "Jaewon An Insup Kim Yooseong Choi Hyeonji Lee",
       "country": "KOR",
       "location": "Oslofjord (NOR)",
-      "date": "2019"
+      "date": "2019",
+      "meet": "WJRF World Championships"
+    },
+    {
+      "event": "SRSR",
+      "division": "OPEN MIXED",
+      "type": "AS",
+      "result": "427",
+      "holder": "Jaewon An Insup Kim Yooseong Choi Hyeonji Lee",
+      "country": "KOR",
+      "location": "Oslofjord (NOR)",
+      "date": "2019",
+      "meet": "WJRF World Championships"
+    },
+    {
+      "event": "SRSS",
+      "division": "OPEN FEMALE",
+      "type": "WR",
+      "result": "111 (TIE)",
+      "holder": "Xihui Feng   ·   Tingting Du",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRSS",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "111 (TIE)",
+      "holder": "Xihui Feng   ·   Tingting Du",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRSS",
+      "division": "OPEN MALE",
+      "type": "WR",
+      "result": "119",
+      "holder": "Xiaolin Cen",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
+    },
+    {
+      "event": "SRSS",
+      "division": "OPEN MALE",
+      "type": "AS",
+      "result": "119",
+      "holder": "Xiaolin Cen",
+      "country": "CHN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
       "event": "SRTU",
@@ -111,7 +363,19 @@
       "holder": "Tori Boggs",
       "country": "USA",
       "location": "Orlando (USA)",
-      "date": "2017"
+      "date": "2017",
+      "meet": "WJRF World Championships"
+    },
+    {
+      "event": "SRTU",
+      "division": "OPEN FEMALE",
+      "type": "AS",
+      "result": "301",
+      "holder": "Cocoro Ito",
+      "country": "JPN",
+      "location": "Kawasaki (JPN)",
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
       "event": "SRTU",
@@ -121,67 +385,19 @@
       "holder": "Minjae Kim",
       "country": "KOR",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
     },
     {
-      "event": "DDSS",
-      "division": "OPEN FEMALE",
-      "type": "WR",
-      "result": "228",
-      "holder": "Lou Aubree / Sharleen Tran / Gwenaëlle Maraux",
-      "country": "FRA",
-      "location": "Nantes (FRA)",
-      "date": "2026"
-    },
-    {
-      "event": "DDSS",
+      "event": "SRTU",
       "division": "OPEN MALE",
-      "type": "WR",
-      "result": "244",
-      "holder": "Yun San Leung / Cheuk Kei Chu / Pak Kin Pang",
-      "country": "HKG",
-      "location": "Colorado Springs (USA)",
-      "date": "2023"
-    },
-    {
-      "event": "DDSS",
-      "division": "OPEN MIXED",
-      "type": "WR",
-      "result": "243 (TIE)",
-      "holder": "Chun Ho Law / Sai Kit Lau / Hiu Tung Liu (HKG)  ·  Liang Jiayang / Liao Yaqi / Ru Siqi (CHN)",
-      "country": "HKG/CHN",
-      "location": "Hong Kong (HKG) / Guangzhou City (CHN)",
-      "date": "2025"
-    },
-    {
-      "event": "DDSR",
-      "division": "OPEN FEMALE",
-      "type": "WR",
-      "result": "429 (TIE)",
-      "holder": "Hiu Lam Chan / Kei Ching Chan / Ching Ho Wan / Chui San Yan (HKG)  ·  Hongxiang Chen / Yuling Chen / Bingqian Huang / Yaqi Liao (CHN)",
-      "country": "HKG/CHN",
-      "location": "Hong Kong (HKG) / Kawasaki (JPN)",
-      "date": "2025"
-    },
-    {
-      "event": "DDSR",
-      "division": "OPEN MALE",
-      "type": "WR",
-      "result": "485",
-      "holder": "Cheuk Him Au / Cheuk Kiu Au / Cheuk Kei Chu / Pak Kin Pang",
-      "country": "HKG",
-      "location": "Incheon (KOR)",
-      "date": "2026"
-    },
-    {
-      "event": "DDSR",
-      "division": "OPEN MIXED",
-      "type": "WR",
-      "result": "461",
-      "holder": "Kobe Caryn / Matthias Hiele / Jens Ockerman / Joyce De Temmerman",
-      "country": "BEL",
+      "type": "AS",
+      "result": "742",
+      "holder": "Minjae Kim",
+      "country": "KOR",
       "location": "Kawasaki (JPN)",
-      "date": "2025"
+      "date": "2025",
+      "meet": "IJRU World Championships"
     }
   ]
 }

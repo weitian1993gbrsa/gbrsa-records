@@ -17,7 +17,7 @@ record is a **commit here** — no app rebuild or redeploy needed.
 {
   "event": "SRSS",                    // event CODE as used in the app: NESS, SRSS, SRDR, SRSR, SRTU, DDSS, DDSR
   "division": "U12- FEMALE",          // division name EXACTLY as in the app (case-insensitive match)
-  "type": "WR",                       // "WR" world, "AR" Asian (WJ/AS/GR also allowed) — printed in the Record column
+  "type": "WR",                       // "WR" world, "AS" Asian (any short code works) — printed in the Record column
   "result": "30.12",                  // printed verbatim (seconds for speed events)
   "holder": "JANE DOE",               // athlete or team name
   "country": "MAS",                   // optional — NOC code column
@@ -28,7 +28,11 @@ record is a **commit here** — no app rebuild or redeploy needed.
 ```
 
 The PDF prints these as a small table above the results (**Record · Result · Name · NOC Code ·
-Location · Date**), ordered WR → AR → others.
+Location · Date**), ordered WR → AS.
+
+**Current data sources:** IJRU World Records (<https://ijru.sport/world-records>) and AJRU Asian
+Records (<https://www.ajru.sport/asian-records>), mapped to the OPEN divisions of the speed events.
+Where an Asian athlete holds the world record, the `WR` and `AS` rows are identical (as in the source).
 
 ### Example
 
@@ -50,7 +54,7 @@ Location · Date**), ordered WR → AR → others.
     {
       "event": "SRSS",
       "division": "U12- FEMALE",
-      "type": "AR",
+      "type": "AS",
       "result": "31.40",
       "holder": "MEI LING",
       "country": "CHN",
@@ -66,4 +70,4 @@ Location · Date**), ordered WR → AR → others.
 - One row per `event + division + type`. A newer row for the same key replaces the old one.
 - Divisions are matched case-insensitively with extra spaces collapsed, so `"U12- FEMALE"` and
   `"u12-  female"` are the same.
-- `type` is printed as-is; order in the table is `WR` then `AR` then anything else.
+- `type` is printed as-is; order in the table is `WR` then `AS`.
