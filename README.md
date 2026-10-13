@@ -11,12 +11,18 @@ redeploy.
 
 ## Live endpoint
 
+The app fetches the raw file straight from GitHub (CORS-enabled, refreshes within ~5 minutes):
+
 ```
-https://cdn.jsdelivr.net/gh/weitian1993gbrsa/gbrsa-records@main/records.json
+https://raw.githubusercontent.com/weitian1993gbrsa/gbrsa-records/main/records.json
 ```
 
 Open that URL in a browser and you should see the JSON. The app points at the same URL
 (`RECORDS_CDN_URL` in `src/services/records/recordsService.ts`).
+
+> **jsDelivr alternative:** `https://cdn.jsdelivr.net/gh/weitian1993gbrsa/gbrsa-records@main/records.json`.
+> jsDelivr is a proper CDN, but it caches the `@main` branch pointer and can keep serving an older
+> commit for hours after a change. Pin a commit (`@<sha>`) if you need instant, stable serving.
 
 ## What's in here
 
