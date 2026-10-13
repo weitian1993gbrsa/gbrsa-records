@@ -108,7 +108,12 @@ instantly, point at a specific commit or tag instead of `@main` (e.g.
 
 ### Rules
 
-- One row per `event + division + type`. A newer row for the same key supersedes the old one.
+- Normally one row per `event + division + type`. A newer row for the same key supersedes the old one.
+- **Individual-event ties** (e.g. `SRSS`): give each tied athlete their **own** row, repeating the same
+  `result` (including the `(TIE)` marker). A tie is two *people*, not one pair — never join individual
+  athletes in a single `holder` string.
+- **Relay / team ties**: keep the competing teams in one row, separated by `·`, since each `holder` there
+  is a team rather than a person.
 - Divisions and event codes are matched **case-insensitively** with extra spaces collapsed, so
   `"OPEN FEMALE"` and `"open  female"` are the same.
 - If a `WR` row is missing for a division, only the `AS` row (or nothing) is shown — the table adapts.
