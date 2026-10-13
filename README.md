@@ -97,7 +97,7 @@ Divisions currently seeded: `OPEN FEMALE`, `OPEN MALE`, `OPEN MIXED`.
 When a results PDF is exported, the app looks up the record rows for each event code + division and
 renders a small table above the results:
 
-> **Record · Result · Name · NOC Code · Location · Date**
+> **Record · Score · Competitor(s) · Country · Year · Event · Location**
 
 Rows are ordered `WR` → `AS`. The JSON is fetched once per session, cached in `localStorage` with a
 6-hour TTL, and falls back to the last good copy if the network is unavailable — so exporting never
